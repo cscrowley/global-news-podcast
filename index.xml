@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Global News Roundup</title>
+    <link>https://YOUR_USERNAME.github.io/global-news-podcast/</link>
+    <description>Daily global news delivered straight to your ears.</description>
+    <item>
+      <title>Episode 1: Title of Your Episode</title>
+      <link>https://cdn.cloudflare.com/your-path-to-mp3.mp3</link>
+      <description>This episode covers global news, including Syria, FBI, and Meta outages.</description>
+      <pubDate>Tue, 10 Dec 2024 08:00:00 GMT</pubDate>
+      <enclosure url="https://cdn.cloudflare.com/your-path-to-mp3.mp3" length="12345678" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
